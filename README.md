@@ -16,4 +16,4 @@ WR and SY conceptualized the paper. WR wrote the code and carried out the analys
 
 Please write with any questions, concerns, or inquiries to will.rogers@yale.edu
 
-All movement data are publically available, and spatial data was collected from public sources. Spatial covariate data is provided as R data objects for ease, but the movement data (besides that contained in amt) are available on MoveBank. 
+All movement data are publically available, and spatial data was collected from public sources. Spatial covariate data is provided as R data objects for ease, but the movement data (besides that contained in amt) are available on MoveBank. Note: not all intermediate data is contained in this repository because of github limitations. All intermediate code products will be archived with Zenodo. 
